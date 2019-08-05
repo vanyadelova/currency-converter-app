@@ -16,25 +16,25 @@ This is my own attempt at the AB Solutions's coding challenge. The task is to cr
 
 Clone the repository.
 ```
-$ git clone https://github.com/vanyadelova/SportsPoll.git
+$ git clone https://github.com/vanyadelova/currency-converter-app.git
 ```
 Install project dependencies and start the app.
 
 ```
-cd SportsPoll
-yarn
-yarn start 
+cd currency-converter-app
+npm install
+npm start
 ```
 
 Your browser should automatically open localhost:3000 Enjoy the app!
 
 You can follow the below commands to test and run the app.
 
-- `yarn start` - dev server
+- `npm start` - dev server
 
-- `yarn build` - output to directory to run on a web server
+- `npm run build` - output to directory to run on a web server
 
-- `yarn test` - run tests via `jest`
+- `npm run test` - run tests via `jest`
 
 
 
