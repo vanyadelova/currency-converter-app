@@ -41,10 +41,8 @@ You can follow the below commands to test and run the app.
 ## Technologies used
 
 - React
-- react-dom
-- react-scripts
-- TypeScript
-- material-ui
+- Redux
+- Axios
 - styled-components
 - jest
 
