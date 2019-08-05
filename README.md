@@ -1,15 +1,15 @@
 # 💱  Currency Converter App 💱  
 
 ## What this project is about
-This is my own attempt at the Glomo's coding challenge. I was expected to develop a Sports Poll app (using React JS). The app should include the following features:
+This is my own attempt at the AB Solutions's coding challenge. The task is to create a simple react application, which will get data asynchronously from a public API through a js http client of my choise (e.g axios, request, fetch...), contain the data with the help of redux and visualize it in a user-friendly way. The app includes the following features:
 
 - **Tests**
 - **Readme**
 - **Working code**
 - **Nice commit messages**
-- **There should be one poll at a time**
-- **Users are allowed to vote on each event**
-- **The polling options should be what team will win or if it will be a draw**
+- **Multiple-selection of currencies**
+- **Users can type search the curreency they need**
+
 
 
 ## Run it locally 🖥
