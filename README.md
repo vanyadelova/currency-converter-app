@@ -43,8 +43,10 @@ You can follow the below commands to test and run the app.
 - React
 - Redux
 - Axios
+- react-dom
+- redux-thunk
 - styled-components
-- jest
+
 
 
 
