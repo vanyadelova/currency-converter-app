@@ -1,4 +1,5 @@
-# 💱  Currency Converter App 💱  
+# 💱  Currency Converter App 💱 
+## [ 💸 Check out the deployed version here! 💸](https://gallant-brattain-9ebaeb.netlify.com/)
 
 ## What this project is about
 This is my own attempt at the AB Solutions's coding challenge. The task is to create a simple react application, which will get data asynchronously from a public API through a js http client of my choise (e.g axios, request, fetch...), contain the data with the help of redux and visualize it in a user-friendly way. The app includes the following features:
